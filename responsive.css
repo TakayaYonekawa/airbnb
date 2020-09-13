@@ -1,0 +1,21 @@
+@media(max-width:1000px) {
+
+}
+
+@media (max-width:670px) {
+    #logo-text{
+      display: none;
+    }
+  #nav{
+    width: 100%;
+    font-size: 13px;
+  }
+ .nav-become{
+   display: none;
+ }
+
+  #searchbar-div{
+    width: 100%;
+}
+
+}
